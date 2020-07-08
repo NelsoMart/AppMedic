@@ -1,0 +1,9 @@
+
+export default { //! de ejemplo de webtc
+  appId: '84540',
+  authKey: 'ATRn2rrTvSyJ8D8',
+  authSecret: 'gHfZOkWzcmxK9yy',
+  accountKey: 'iz85PyHfpXcM8xBP2yz3',
+  apiEndpoint: '',
+  chatEndpoint: '',
+}
