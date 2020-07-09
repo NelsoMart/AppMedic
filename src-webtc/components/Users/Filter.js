@@ -1,7 +1,7 @@
 import React from 'react'
 import {
   Image,
-  StyleSheet,   
+  StyleSheet,         
   Text,
   TextInput,
   TouchableOpacity,
